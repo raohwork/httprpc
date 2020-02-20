@@ -1,6 +1,6 @@
 RPC over HTTP
 
-# FUN PROJECT
+# PROJECT FOR FUN
 
 This is a toy project. Not ready for production.
 
